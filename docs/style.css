@@ -63,6 +63,33 @@ body {
     pointer-events: none;
 }
 
+#linkedin-share {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 10px 22px 10px 16px;
+    background: linear-gradient(180deg, #39ff14 60%, #222 100%);
+    color: #222;
+    border: 2px solid #39ff14;
+    border-radius: 8px;
+    font-family: 'VT323', 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    text-decoration: none;
+    box-shadow: 0 2px 8px #39ff14, 0 0 2px #fff inset;
+    letter-spacing: 1px;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s;
+    vertical-align: middle;
+}
+#linkedin-share:hover, #linkedin-share:focus {
+    background: #222;
+    color: #39ff14;
+    box-shadow: 0 4px 16px #39ff14, 0 0 4px #fff inset;
+}
+#linkedin-share svg {
+    vertical-align: middle;
+    margin-right: 6px;
+    margin-bottom: 2px;
+}
+
 @media (max-width: 600px) {
     #quote-container {
         padding: 18px 4vw;
