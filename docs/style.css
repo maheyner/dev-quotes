@@ -44,7 +44,7 @@ body {
     margin-top: 10px;
     letter-spacing: 1px;
     outline: none;
-    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s, opacity 0.4s, scale 0.4s;
     position: relative;
     overflow: hidden;
 }
@@ -56,6 +56,11 @@ body {
     background: linear-gradient(180deg, #39ff14 10%, #222 100%);
     color: #222;
     box-shadow: 0 6px 16px #39ff14, 0 0 4px #fff inset;
+}
+#generate-btn.hide {
+    opacity: 0;
+    transform: scale(0.7);
+    pointer-events: none;
 }
 
 @media (max-width: 600px) {

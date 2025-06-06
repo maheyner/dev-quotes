@@ -6,7 +6,7 @@ const quotes = [
     "The best time to plant a tree was 20 years ago. The second best time is now.",
 ];
 
-function typeQuote(quote, element, delay = 60) {
+function typeQuote(quote, element, delay = 60, onComplete) {
     element.textContent = '';
     element.style.display = 'block';
     const words = quote.split(' ');
@@ -16,6 +16,8 @@ function typeQuote(quote, element, delay = 60) {
             element.textContent += (i === 0 ? '' : ' ') + words[i];
             i++;
             setTimeout(typeNext, delay + Math.random() * 80);
+        } else if (onComplete) {
+            onComplete();
         }
     }
     typeNext();
@@ -26,11 +28,11 @@ window.onload = function() {
     const btn = document.getElementById('generate-btn');
     if (btn) {
         btn.onclick = function() {
-            btn.disabled = true;
+            btn.classList.add('hide');
+            setTimeout(() => { btn.style.display = 'none'; }, 400);
             quoteElement.style.display = 'block';
             const randomIndex = Math.floor(Math.random() * quotes.length);
             typeQuote(quotes[randomIndex], quoteElement);
-            setTimeout(() => { btn.disabled = false; }, 2000);
         };
     }
     quoteElement.style.display = 'none';
