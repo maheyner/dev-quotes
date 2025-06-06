@@ -6,13 +6,32 @@ const quotes = [
     "The best time to plant a tree was 20 years ago. The second best time is now.",
 ];
 
+function typeQuote(quote, element, delay = 60) {
+    element.textContent = '';
+    element.style.display = 'block';
+    const words = quote.split(' ');
+    let i = 0;
+    function typeNext() {
+        if (i < words.length) {
+            element.textContent += (i === 0 ? '' : ' ') + words[i];
+            i++;
+            setTimeout(typeNext, delay + Math.random() * 80);
+        }
+    }
+    typeNext();
+}
 
-// On load, check if user is signed in
 window.onload = function() {
     const quoteElement = document.getElementById('quote');
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    quoteElement.textContent = quotes[randomIndex];
-
-    const account = msalInstance.getAllAccounts()[0];
-    updateAuthUI(account);
+    const btn = document.getElementById('generate-btn');
+    if (btn) {
+        btn.onclick = function() {
+            btn.disabled = true;
+            quoteElement.style.display = 'block';
+            const randomIndex = Math.floor(Math.random() * quotes.length);
+            typeQuote(quotes[randomIndex], quoteElement);
+            setTimeout(() => { btn.disabled = false; }, 2000);
+        };
+    }
+    quoteElement.style.display = 'none';
 };

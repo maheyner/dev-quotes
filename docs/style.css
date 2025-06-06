@@ -3,26 +3,66 @@ body {
     color: #39ff14;
     font-family: 'VT323', 'Courier New', Courier, monospace;
     margin: 0;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    min-height: 100vh;
+    height: auto;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 #quote-container {
     background: #111;
     border: 4px solid #39ff14;
     box-shadow: 0 0 40px #39ff14, 0 0 10px #222 inset;
-    padding: 40px 60px;
+    width: 90vw;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 32px 10vw;
     border-radius: 8px;
     text-align: center;
-    max-width: 600px;
+    box-sizing: border-box;
 }
 
 #quote {
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;
     letter-spacing: 2px;
+    word-break: break-word;
+    margin-top: 24px;
+}
+
+#generate-btn {
+    background: #222;
+    color: #39ff14;
+    border: 2px solid #39ff14;
+    font-family: 'VT323', 'Courier New', Courier, monospace;
+    font-size: 1.3rem;
+    padding: 16px 32px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0 0 10px #39ff14, 0 0 2px #fff inset;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+#generate-btn:hover, #generate-btn:focus {
+    background: #39ff14;
+    color: #222;
+    box-shadow: 0 0 20px #39ff14, 0 0 4px #fff inset;
+}
+
+@media (max-width: 600px) {
+    #quote-container {
+        padding: 18px 4vw;
+        max-width: 98vw;
+    }
+    #quote {
+        font-size: 1.1rem;
+    }
+    #generate-btn {
+        font-size: 1rem;
+        padding: 12px 10vw;
+    }
 }
 
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
