@@ -37,13 +37,17 @@ window.onload = function() {
             typeQuote(quoteText, quoteElement, 60, function() {
                 if (shareBtn) {
                     const shareUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href) +
-                        '&title=' + encodeURIComponent(quoteText);
+                        '&summary=' + encodeURIComponent(quoteText);
                     shareBtn.href = shareUrl;
                     shareBtn.style.display = 'inline-block';
+                    shareBtn.style.opacity = '1';
                 }
             });
         };
     }
-    if (shareBtn) shareBtn.style.display = 'none';
+    if (shareBtn) {
+        shareBtn.style.display = 'none';
+        shareBtn.style.opacity = '0';
+    }
     quoteElement.style.display = 'none';
 };
