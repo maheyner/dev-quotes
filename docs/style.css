@@ -31,24 +31,31 @@ body {
 }
 
 #generate-btn {
-    background: #222;
+    background: linear-gradient(180deg, #222 60%, #111 100%);
     color: #39ff14;
-    border: 2px solid #39ff14;
+    border: 2.5px solid #39ff14;
     font-family: 'VT323', 'Courier New', Courier, monospace;
     font-size: 1.3rem;
     padding: 16px 32px;
-    border-radius: 6px;
+    border-radius: 12px;
     cursor: pointer;
-    box-shadow: 0 0 10px #39ff14, 0 0 2px #fff inset;
-    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 0 #39ff14, 0 0 10px #39ff14, 0 0 2px #fff inset;
     margin-bottom: 10px;
     margin-top: 10px;
     letter-spacing: 1px;
+    outline: none;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s;
+    position: relative;
+    overflow: hidden;
+}
+#generate-btn:active {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 #39ff14, 0 0 10px #39ff14, 0 0 2px #fff inset;
 }
 #generate-btn:hover, #generate-btn:focus {
-    background: #39ff14;
+    background: linear-gradient(180deg, #39ff14 10%, #222 100%);
     color: #222;
-    box-shadow: 0 0 20px #39ff14, 0 0 4px #fff inset;
+    box-shadow: 0 6px 16px #39ff14, 0 0 4px #fff inset;
 }
 
 @media (max-width: 600px) {
