@@ -47,7 +47,7 @@ window.onload = function() {
             quoteElement.style.display = 'block';
             const randomIndex = Math.floor(Math.random() * quotes.length);
             const quoteText = quotes[randomIndex].Joke || quotes[randomIndex];
-            imglink.href=quotes[randomIndex].ascii_art;
+            imglink.href=quotes[randomIndex].ascii_art || "art/ascii_art_0000.html";
             imglink.style.display = 'inline-block';
             typeQuote(quoteText, quoteElement, 60, function() {
                 if (shareBtn) {
