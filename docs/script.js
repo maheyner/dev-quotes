@@ -55,14 +55,14 @@ window.onload = function() {
                         imgblock.style.display = 'inline-block';
                         imgblock.innerHTML =""
                         //split html by <br>
-                        const lines = html.split(/<br>/);
+                        const lines = html.split("<br />");
                         // append line by line to the innerHTML
-                        let i=100;
+                        let i=0;
                         console.info(lines.length);
                         lines.forEach(line => {
-                            i += 100;
+                            i += 5;
                             setTimeout(() => {
-                            imgblock.innerHTML += line + '<br>';
+                            imgblock.innerHTML += line + '<br />';
                             }, i);
                                                     
                         });
