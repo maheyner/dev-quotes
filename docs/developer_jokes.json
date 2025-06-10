@@ -1,0 +1,3167 @@
+[
+  {
+    "Joke":"\/\/ TODO: Actually do this.",
+    "image":"images\/image_0000.png",
+    "ascii_art":"art\/ascii_art_0000.html"
+  },
+  {
+    "Joke":"A clean codebase is a sign of a postponed deadline.",
+    "image":"images\/image_0001.png",
+    "ascii_art":"art\/ascii_art_0001.html"
+  },
+  {
+    "Joke":"AI can code in every language. Understanding the problem is optional.",
+    "image":"images\/image_0002.png",
+    "ascii_art":"art\/ascii_art_0002.html"
+  },
+  {
+    "Joke":"AI didn\u2019t replace me. It just gave me more weird bugs to debug.",
+    "image":"images\/image_0003.png",
+    "ascii_art":"art\/ascii_art_0003.html"
+  },
+  {
+    "Joke":"AI explained transformers using actual Transformers. Still confused.",
+    "image":"images\/image_0004.png",
+    "ascii_art":"art\/ascii_art_0004.html"
+  },
+  {
+    "Joke":"AI generated 100 lines of code and a new imposter syndrome.",
+    "image":"images\/image_0005.png",
+    "ascii_art":"art\/ascii_art_0005.html"
+  },
+  {
+    "Joke":"AI generated a README longer than the app itself.",
+    "image":"images\/image_0006.png",
+    "ascii_art":"art\/ascii_art_0006.html"
+  },
+  {
+    "Joke":"AI helped build the app. It also helped crash it.",
+    "image":"images\/image_0007.png",
+    "ascii_art":"art\/ascii_art_0007.html"
+  },
+  {
+    "Joke":"AI named my functions after feelings. It's not wrong.",
+    "image":"images\/image_0008.png",
+    "ascii_art":"art\/ascii_art_0008.html"
+  },
+  {
+    "Joke":"AI promised productivity. Delivered prompt anxiety.",
+    "image":"images\/image_0009.png",
+    "ascii_art":"art\/ascii_art_0009.html"
+  },
+  {
+    "Joke":"AI summarized our sprint as 'lots of trying'. Accurate.",
+    "image":"images\/image_0010.png",
+    "ascii_art":"art\/ascii_art_0010.html"
+  },
+  {
+    "Joke":"AI wrote a function. The variable names are all vibes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"AI wrote the perfect function. No idea what it does.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"ActionScript: Flash\u2019s last whisper.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ada: the language with military-grade precision.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Agile means we change direction faster than our backlog loads.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Alert fatigue: when silence becomes suspicious.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"All conditions met. Code still confused.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"All logic was clear\u2026 until someone hit backspace.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"All tests passed. The app still broke. Magic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Angular: for when you want structure and still get confusion.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ansible: YAML-driven automation, emotional debugging.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Asked AI to build a model. It built a monument.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Asked for predictions. Got prophecies.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Asked the model to code in silence. It still talked back.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Assembly: the language for when you trust no abstractions.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Assert statements: little screams of hope.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Autoscaling: because 100 instances sounds reasonable, right?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Awk: the original data wrangler.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Base64 encoding: because plain text was too readable.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Bash: where every typo is a system command.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Big-endian vs little-endian: the developer's version of 'the dress'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Binary trees: nature\u2019s revenge on coders.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Binary: the original language of ones, zeros, and confusion.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Bits are like opinions\u2014everyone\u2019s got one, and they can flip fast.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Boolean logic: where true is false and false is also false.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Boolean state: Schr\u00f6dinger\u2019s logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Bootstrap: the default look of half the internet.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Bugs are like cats\u2014never where you expect them.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Bugs travel faster through wireless code.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"C++: where one semicolon can make or break your weekend.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"C: for when you want full control and full responsibility.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CI is red. My patience is fading.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CI is red. The code is blue. Deployment failed, and so did you.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CI\/CD pipelines: the Rube Goldberg machines of software.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CI\/CD: Continuous Integration \/ Constant Instability.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"COBOL: still running your bank, somehow.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CSV: the file format that loves drama and commas.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Checksum failed. Welcome to my life.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"CircleCI: the pipeline that goes in circles sometimes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Clean code. Dirty logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Cloud billing is a choose-your-own-expense adventure.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Cloud is elastic. My patience is not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Cloud-native? More like cloud-nervous.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code comments: archaeology for the next developer.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code doesn\u2019t lie, but it does mislead.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code freeze: a time of spiritual reflection.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code looked good in theory. Then I ran it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code review feedback: 'Interesting approach.' Translation: 'Please rethink your life choices.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code review: found 1 logic error, 3 grammar jokes, and my will to improve.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code reviews: gentle corrections with passive aggression.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code works on my machine. Must be a hardware problem elsewhere.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Comment says it works. Code disagrees.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Commit early, commit often, regret always.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Commit message: 'final-final-v2-done-for-real'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Compilation successful. Runtime chaos unlocked.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Conditional logic: where the truth is negotiable.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Console.log is my last line of defense.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Crystal: Ruby\u2019s fast, statically typed cousin.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Daily standup: 10% update, 90% caffeine.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Dart: because Flutter had to land somewhere.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Data corruption builds character\u2014and disaster recovery plans.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Datagrams: email's hyperactive cousin.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Debugger: because printf just isn't dramatic enough.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Deploy, monitor, rollback, repeat.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Deployed to prod. Waiting for peace or pager.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Deploying on Friday is brave. And slightly reckless.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Deployment window: 15 minutes of tension and tears.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Dev, staging, and prod walk into a bar. Staging orders what prod drinks and panics.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"DevOps is Latin for 'You own it now.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Developer culture: where 'LGTM' means 'I hope someone else looked at it.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Django: batteries included, opinions too.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Docker: ship it, and hope it runs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Documentation is like flossing: everyone says it's important, few do it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Edge cases are just normal cases with bad timing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Elasticsearch: full-text search and full-scale headaches.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Electron: desktop apps that weigh more than the OS.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Elixir: because even functional code needs a little sparkle.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Erlang: built for telecom, misunderstood by humans.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Error 503: the weekend has started early.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Error logs: modern horror stories in JSON.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Even my cookies are tracking me.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every 'fix' introduces new narrative arcs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every TODO is a cry for future help.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every XML file ends in a cry for help.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every codebase tells a story. Some are horror.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every deployment is a leap of faith and a rollback plan.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Everything was fine until someone updated the config.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Expected boolean, got an emotional monologue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Express: middleware everywhere, logic nowhere.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"F#: Because sometimes one letter is enough.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"FastAPI: blink and your REST endpoint is live.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Fine-tuned on my Slack history. Now it just sends emojis and ignores deadlines.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Fine-tuned the model on best practices. It stopped suggesting global variables.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Firebase: backend-as-a-fire-drill.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Flask: for when you just want to serve and chill.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Fortran: proving old code never dies.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Found the bug. Named it. Nurtured it. It multiplied.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Function returned true. Emotionally, I feel false.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Gatsby: fast static sites, slow build times.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI autocompleted a commit message. It was oddly personal.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI can finish my sentences. Just not my features.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI completed my sentence\u2014and my doubt.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI doesn't understand context. Just like my old coworker.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI generated comments in Latin. Fancy, not helpful.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI made a dashboard. Everything is orange now.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI rewrote my function. It\u2019s shorter and more mysterious.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI thinks \u2018hello world\u2019 is an enterprise application.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"GenAI wrote a poem about bugs. It rhymed 'null' with 'skull'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Git blame reveals all.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Git log: the timeline of my personal growth\u2014and mistakes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Go developers are always ready to run.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Grafana: pretty dashboards for ugly problems.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Groovy: Java, but with rhythm.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Grunt: JavaScript automation from the caveman era.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Gulp: because streaming builds sounded cool.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"HTTP 418: I\u2019m a teapot, and proud of it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Hack: PHP\u2019s responsible sibling.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Haskell devs don\u2019t use loops. They just believe recursion will come back around.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Hasura: GraphQL auto-magic with a side of SQL sass.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Helm: Kubernetes for people who like charts and stress.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Heroku: simple until you want to scale.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I added a comment. The bug became self-aware.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked AI for unit tests. It gave me a vision board.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked AI to help with debugging. It recommended therapy.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked AI to make my app faster. It deleted half the logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked AI to suggest a feature. It said 'Ask product team'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked ChatGPT for help. It gave me a Stack Overflow answer I wrote last year.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked ChatGPT to explain AI ethics. It changed the topic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked ChatGPT to refactor. It changed the indentation.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked ChatGPT to write a PR description. It wrote an essay.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked GenAI to write a test. It tested my patience.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked GenAI to write clean code. It returned Markdown.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked for UTF-8, got emoji chaos.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked my AI to write code. It responded with a poem in Python.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked the AI for design patterns. It gave me fabric swatches.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked the AI to simplify the code. It removed the feature.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I asked the compiler for answers. It gave me warnings.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I built an AI agent to handle meetings. Now it just says 'circling back.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I caught the exception. Now I just don\u2019t know what to do with it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I commented my code. It just says 'lol'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I configured IAM once. Still recovering.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I created a draft PR and instantly regretted it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I debugged for hours. Turns out it was a typo.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I deleted one line. The app stopped believing in itself.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I deleted the old branch. Emotional closure achieved.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I encrypted my lunch menu. Now I can\u2019t decrypt it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I fine-tuned the model on my codebase. It now apologizes constantly.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I fixed the logic. It fixed nothing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I gave the function everything. It returned nothing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I had a logic bug. It turned into a philosophical debate.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I joined a multicast group. Now I have more notifications than friends.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I left a comment so brilliant, even I don\u2019t understand it now.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I made a switch case. Now it won\u2019t switch.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I opened a PR and accidentally a debate.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I prompt with precision. It replies with poetry.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I prompted an LLM to act like a senior dev. It created a Jira ticket and went silent.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I prompted the model with \u2018be creative\u2019. It created a new syntax.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I renamed the variable. Confused both me and the compiler.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I resolved the merge conflict. It created a logic war.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I spun up a VM. It spun out of budget.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I told AI to act like a tech lead. It forwarded my ticket.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I told the AI to optimize performance. It optimized me out of the loop.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I treat code comments like diary entries.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I tried prompt chaining. Now I\u2019m stuck in a loop.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I tried to catch the error. It dodged and threw one back.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I tried to compress my feelings. Now they\u2019re in a zip file I can't open.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I tried to read a QR code manually. Bad idea.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I trust my deployment scripts like I trust weather forecasts.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I use AI for brainstorming. It mostly rains.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I use AI to write code. Then I spend hours understanding what it meant.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I wrote my own protocol. Now no one talks to me.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"IP conflicts are the family feuds of networking.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"If (works == true) { don't_touch(); }",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"If only else worked as expected.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Infinite loop: productivity's nemesis.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Input was sanitized. Output wasn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It compiled. That's the first red flag.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It passed CI\/CD. It failed reality.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It wasn't a bug. It was an unexpected behavior. In triplicate.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It\u2019s not a syntax error. It\u2019s a logic epiphany.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It\u2019s not bias. It\u2019s personality, said the model.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"JSON is great until it gets deeply nested\u2014like my regrets.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Java and JavaScript are like car and carpet\u2014similar name, different world.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"JavaScript: where '==' is a philosophical question.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Jenkins: old reliable, and reliably complex.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Julia: for fast math and slow adoption.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"K8s: short for 'keep being confused'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Kafka: streaming logs and developer tears in real time.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Kotlin: for Java developers who needed a hug.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Kubernetes: now with 100% more YAML.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Kubernetes: when containers just weren't complicated enough.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Kubernetes: write once, debug forever.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLM autocomplete: confidently wrong since 2022.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLM replaced my need to Google. Now I just doubt in new ways.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLM said \u2018trust me\u2019. Famous last words.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLM tried to debug my code. It gaslit me instead.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLM wrote a regex. It worked. Suspiciously.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"LLMs are great at pair programming. If your pair talks too much.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Laravel: PHP with sugar on top\u2014and a sprinkle of magic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Lisp: for those who see beauty in parentheses.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Load balancer is balanced. I\u2019m not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Logic branching like a choose-your-own-adventure novel.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Logic bug: when the code is technically right but morally wrong.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Logic so twisted, even the debugger gave up.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Logic was fine until someone ran the program.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Logstash: for when grep just isn't fancy enough.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Lua: small, fast, and confusing in large doses.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"MATLAB: where everything is a matrix\u2014even your confusion.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Material UI: Google's design\u2014your problem.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Merge conflict: developer PvP mode activated.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Model hallucinated a new API. Now our PM wants it in production.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Model said the issue was \u2018outside scope\u2019. Classic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Model says 'I don\u2019t know'. But in a very confident tone.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Model summarized my doc as: 'Try again later.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Monday deploys build character.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"MongoDB: schema-less, but not drama-less.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Monitoring told me it\u2019s fine. Then it restarted itself.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My .gitignore is longer than my README.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My AI assistant suggested adding more AI.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My AI assistant told me to 'take a break'. Might be sentient.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My AI dev helper outputs functions. I supply the meaning.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My AI helper insists every bug is a feature.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My CI\/CD pipeline has more steps than a dance tutorial.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My GenAI writes code like I do\u2014under pressure and with doubt.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My JSON is fine. It\u2019s just misunderstood.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My JSON parser throws more shade than my linter.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My Wi-Fi signal is strong. My connection to reality isn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My assistant writes boilerplate faster than I can delete it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My breakpoint is emotional.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My cache is like my memory\u2014unreliable and outdated.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My chatbot now responds faster than I think. Terrifying.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My code assumes the best. Life assumes otherwise.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My code didn\u2019t fail. It started a new feature branch.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My data packet took a detour through Narnia.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My docker container is healthy. I\u2019m not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My function works. I fear it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My if block works. Else, I don\u2019t know.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My infrastructure is as code. My error handling is as prayer.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My infrastructure is code. My confidence is not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My logic is airtight. Unfortunately, the code isn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My logic passed all tests, except the one that matters.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My loop exited. My hope didn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My prompt history is now a therapy session.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My stack overflowed, just like my to-do list.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My team communicates exclusively via comments and memes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"MySQL: where performance tuning is an art form.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"NaN: Not a Number, not a solution either.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Naming things is hard. So is everything else.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nested ifs: logic inception.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nested ternary? Nested regret.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Netlify: push, deploy, repeat until it breaks.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Next.js: where frontend meets backend and they both shrug.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nim: because developers love experiments.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Node.js: asynchronous like my sense of time.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nothing breaks trust like rebasing without warning.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nothing like a successful deployment to mask a deeper issue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Null is not a bug\u2014it's a lifestyle.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Null is the default state of my confidence.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"NullPointerException: the silent scream of Java.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nuxt.js: Vue\u2019s twin with server-side dreams.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"OCaml: for devs who enjoy safety and brackets in equal measure.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Objective-C: because brackets weren\u2019t annoying enough yet.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Off-by-one errors are the gateway bugs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"One if statement later, the whole thing broke.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our AI is deterministic, except when it\u2019s not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our AI solution generates problems we didn\u2019t know we could have.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our GenAI model writes fast code\u2026 for imaginary problems.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our chatbot passed the Turing test. Failed QA.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our cloud provider called. They miss our budget.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our model passed all tests\u2014except common sense.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our staging is production with commitment issues.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"PHP: the duct tape of the web.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Pair programming: when two confused people are slightly more productive.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Parcel: the plug-and-play cousin of Webpack.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Parity error: even the bits aren\u2019t getting along.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Parsing YAML: choose your own indentation nightmare.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Pascal: the polite language of the '80s.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Perl: for those who like their syntax with extra mystery.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ping timeout: the digital equivalent of being ignored.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Pony: actor-based and adorable.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"PostgreSQL: because sometimes you want a database and a challenge.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Print debugging: because breakpoints don\u2019t judge.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Production is down. Time to check Twitter.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prolog: when your code should be more about facts than functions.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prometheus: time series and timeless config files.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prompt engineering: the new art of asking nicely.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prompted GPT to explain recursion. It's still typing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prompted the bot with 'act like a dev'. It added coffee and sarcasm.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prompted the bot with 'modern dev'. It returned memes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Prompted the model with 'be creative'. Regretted it instantly.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Protocol negotiation: digital small talk before the real talk.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Pull request title: 'Please don't ask questions.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Python devs don\u2019t use semicolons. They prefer their code unpunctuated.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"R: for statisticians who love plotting and cryptic errors.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"REST is stateless. Just like my emotional availability.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"RabbitMQ: the messaging system with a cute name and tough attitude.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Racket: Scheme in a cooler outfit.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"React developers re-render more than soap operas.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Recursive function: called me instead.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Redis: fast, in-memory, and mysteriously empty when it matters.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Refactored one line, created three edge cases.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Regex: because you like solving problems with new problems.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Release notes: now with 30% more disclaimers.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Removed the bug. Introduced mystery behavior.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Restarting the pod is our version of turning it off and on again.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Returned an array. Received an existential crisis.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Returned from recursion. Still lost.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Returned the correct result. On the wrong day.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Reviewing code at 4 PM is a known anti-pattern.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ruby is elegant\u2014until you try to debug a gem dependency.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ruby on Rails: convention over configuration, and sometimes logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Rust: the language that rewards anxiety with safety.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"SQL: not quite a language, but always judging your joins.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"SQLite: for projects that deserve a napkin database.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Scala: for people who couldn\u2019t decide between Java and functional programming.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Scaling up sounded great until the bill came in.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Secrets manager: storing passwords and existential dread.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Sed: because editing should be obscure.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Sent a ping. Still waiting for the pong.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Serializing my feelings one object at a time.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Serverless is just someone else\u2019s uptime.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Shell scripting: because why use Python when you can suffer?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Slack is my second IDE.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Smalltalk: the language that whispers to your objects.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Spring Boot: Java\u2019s answer to 'how fast can we start?'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Sprint planning: time to guess again!",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Stack trace led nowhere. Just like my assumptions.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Stand-up updates: 'Blocked by logic and emotion.'",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Standup takeaway: we\u2019re blocked, but united.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Supabase: PostgreSQL dressed like Firebase.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Svelte: compile-time wizardry, runtime mystery.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Swift is fast, but its updates are faster.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Syntax is clean. Logic is a mess.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"TCP is reliable\u2014just like that friend who shows up eventually.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"TIL: git force-push is a trust exercise.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tailwind CSS: because class names should read like poetry.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tcl: the forgotten glue that still sticks.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Ternary operators: the emoji of conditional logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Terraform plan: destroy. Mood: same.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Terraform: declare your infrastructure, pray for idempotence.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"That awkward moment when your packet gets dropped.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"That moment when 'kubectl get pods' becomes your meditation.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI assistant offered three solutions. All started with 'consider rewriting it in Rust'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI generated 10 ideas. All of them were 'build another AI'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI said my code was beautiful. I know it\u2019s lying.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI suggested tabs. I\u2019m now suspicious of its judgment.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI thinks Java and JavaScript are related. It's not alone.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The AI wants feedback. So do I.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The API returns 200 OK. The frontend disagrees.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The CI\/CD pipeline is moody today.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The GenAI gives great answers. Not always to my question.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The GenAI understands syntax, not sarcasm.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The LLM found a bug I didn\u2019t know existed. Now I have more.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The LLM now answers with emojis. Cutting-edge communication.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The SRE\u2019s motto: hope is not a strategy.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The app crashed. At least it's consistent now.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The autocomplete wrote my apology email. It was too sincere.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The best part of deployment is watching the logs like a suspense movie.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The best part of git rebase is the existential reflection.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The branch name says 'quick-fix'. That was two weeks ago.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The bug appears only when you\u2019re confident it won\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The build failed. Again. Naturally.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The chatbot started sending cat facts. Not mad about it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The cloud is just a fancy name for someone else's computer\u2014and cost center.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The code has feelings. Mostly confused ones.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The code is clean. The context isn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The code is self-documenting. If you're psychic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The code works, but only because I no longer know what it's doing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The code works\u2014unless someone looks at it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The commit history is a psychological thriller.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The commit message just says 'why'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The condition was clear. The execution wasn't.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The config worked yesterday. That makes it legacy today.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The function returned early. Same.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The internet is just packets playing tag.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The logic is sound. The app is not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The logs say everything is fine. I say otherwise.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The loop was infinite. My patience wasn\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model doesn't sleep. But it does nap during inference.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model doesn\u2019t hallucinate. It dreams.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model learned from my code. I\u2019m so sorry.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model thinks 1 + 1 is 'a philosophical question'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model\u2019s confidence is unmatched. So is its wrongness.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The one who wrote this code clearly had a plan. Too bad they didn't document it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The pipeline broke. The dreams followed.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The test case failed. It had one job.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"There are 10 kinds of people in the world: those who understand binary and those who don\u2019t.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"There are no bugs. Just undocumented features\u2026 and screaming.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Trained a bot to schedule meetings. It overachieved.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Trained a model on API docs. It still says 'try again later'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Trained a model on JavaScript. Now it's dynamically unpredictable.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Trained the model for 72 hours. It now outputs haikus about null values.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Training the model cost us a week and a GPU. Still outputs lorem ipsum.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Travis CI: the OG of cloud builds, now with ghosts.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"True == False. Must be Monday.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Try again. And again. And again...",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Try-catch: the dev equivalent of 'fingers crossed'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Trying to fix the logic made me question mine.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tuned the model for performance. It now answers everything with 'use a cache'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Type inference in Rust: helpful and terrifying.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"TypeScript: JavaScript, but with commitment issues resolved.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"UDP: communication without commitment.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Undefined is a valid state of mind.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Undefined is just JavaScript\u2019s way of keeping secrets.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Unhandled promise rejection? Welcome to my life.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Uptime SLAs: our favorite fiction genre.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"V: for when you want speed, safety, and no libraries.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"VB.NET: for developers who love buttons.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Variable accidentally reused. Universe imploded.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Variable scope: where bugs go to hide.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Variable undefined, like my weekend plans.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Variable undefined? That's the spirit.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Vercel: React\u2019s best friend and your build\u2019s worst enemy.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Version control taught me humility.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Version control: where you fight your past self every day.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Vite: lightning-fast builds, until you misconfigure it.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Vue.js: easy to pick up, hard to put down\u2026 when it's broken.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We containerized everything\u2014except expectations.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Webpack: configure once, debug forever.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"When in doubt, blame scope.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"When logic fails, pseudocode cries.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Why did the C# developer get lost? Because he couldn't find his Java class.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Why did the code crash? Because someone believed in user input.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"YAML: the language of spacing and suffering.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"You can\u2019t spell \u2018functionality\u2019 without \u2018fun\u2019. But it\u2019s not guaranteed.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"You had one job, return statement. One job!",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Zero-indexed arrays: confusing beginners since forever.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Zig: because naming a language after a verb is bold.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"jQuery: still doing the job nobody admits needs doing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u2014 translate to laugh.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u2018Expected output\u2019 is such a strong phrase.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u2018Immutable infrastructure\u2019 still breaks emotionally.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u2018Quick fix\u2019 is developer foreshadowing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Auto-save: saving more than just files.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Autocomplete: because typing is hard.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Dark mode: because debugging shouldn't hurt more than it already does.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Deep learning: deeper problems.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Feature engineering: where the magic and madness happen.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Git has a command for everything\u2014except inner peace.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I aliased 'git push' to 'pray-and-push'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I built a model. It predicts lunch time with scary precision.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I cleaned the data. It got dirty again.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I got assigned a ticket in standup. I left the call.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I installed 10 linters. Now my code feels judged.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I misspelled a CLI command. Now I live in Vim.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I spoke in standup today. It was mostly sighs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I tried a new tool. I now have trust issues.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I updated my terminal theme. Now I feel productive.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I use Docker. Now everything\u2019s broken in a container.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I used a neural network. It memorized the dataset and forgot the goal.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I used an LSTM to remember everything. It still forgot my deadline.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"ML engineers don\u2019t like surprises\u2014unless it\u2019s more data.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Makefile errors: where dreams go to die.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Meetings are our main productivity blocker. And our main task.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My IDE knows what I want better than I do. Still wrong though.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My code formatter argues with my soul.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My command line history is a cry for help.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My debugger is just a fancy pause button.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My favorite loss function is 'why bother'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My job is tuning hyperparameters and expectations.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My linter yelled at me. I agreed.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My model is 99% accurate. On the training data. For one class.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My sprint planning is just backlog shuffling with flair.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our ML pipeline is robust. Unless someone sneezes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our ML system works perfectly. In theory. In 2019.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our daily standup could be an email. A very short one.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our model overfits like a tailored suit.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Our retros always end in 'we should communicate better'.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Planning poker: now with bluffing and panic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"PyTorch: great for experiments and existential crises.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Retrospective: where we professionally blame the sprint.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Scrum master says we\u2019re progressing. I say we\u2019re spiraling.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Sprint planning: the art of guessing deadlines together.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Standup at 9am. Productivity starts at noon.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Standup: three blockers and a confession.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Story points are like horoscopes. Fun, but not scientific.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tabs vs spaces: the eternal keyboard war.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Team velocity is measured in coffee per ticket.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"TensorFlow: because matrix math needed more drama.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The board says we're on track. Reality disagrees.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The build tool works. When it wants to.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The data is clean. Emotionally, I\u2019m not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The dataset is large, unlabeled, and slightly haunted.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The debugger stepped over my will to continue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The model learned biases. Now it fits right in.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The only agile thing in our process is the calendar.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Training took 12 hours. Results took 2 minutes to disappoint.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Used reinforcement learning. Rewarded it for existing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"VS Code has more extensions than I have skills.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We have a meeting to plan the meeting. It\u2019s recursive.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We use scrum. Mostly to scramble.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We\u2019re so agile, we pivot weekly. On the same problem.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u2018Quick sync\u2019 is never quick, and rarely a sync.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why don\u2019t developers tell secrets in version control? A: Because git always remembers.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do you call a function with too many arguments? A: A debate.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the array break up with the linked list? A: It needed space.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a developer\u2019s favorite type of music? A: Algo-rhythm.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why was the function so moody? A: It had too many side effects.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do you get when you cross HTML and an emotional developer? A: <div class='feelings'>",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the database go on a diet? A: Too many joins.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a loop\u2019s least favorite activity? A: Breaking up.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the API get therapy? A: Too many unresolved issues.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: How does a computer get drunk? A: It takes too many bytes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why can\u2019t devs play hide and seek? A: Because good luck hiding when everything is logged.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the backend break up with the frontend? A: It felt disconnected.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a Java developer\u2019s favorite coffee? A: Null roast.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why don\u2019t programmers like nature? A: It has too many bugs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the boolean go on a date? A: It needed a true companion.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a programmer\u2019s favorite game? A: Stack Overflow.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why are programmers bad at sports? A: They only know how to catch exceptions.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why was the code so shy? A: It kept everything private.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do you call a broken git branch? A: A commit-ment issue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the cloud developer feel foggy? A: Too many layers of abstraction.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s the best way to comfort a crashing app? A: Give it a soft reboot.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the script run away? A: It couldn\u2019t handle the arguments.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why was the dev calm during production errors? A: They\u2019d already embraced chaos.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a developer\u2019s idea of cardio? A: Chasing bugs.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What language do silent coders use? A: Whis-python.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do you get when your loop never ends? A: A late night.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the SQL query get kicked out? A: Bad joins.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s the key to success in JavaScript? A: Not typing.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why do arrays never gossip? A: They\u2019re too tightly bound.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What happens when you call a function without thinking? A: Stack overflow.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: How do developers survive office life? A: With semicolons and sarcasm.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the Git repo cry? A: It couldn't handle the merge conflict.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do you call a philosophical variable? A: Undefined.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why are regex jokes so meta? A: Because they always look for patterns.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: How do APIs apologize? A: With 200 OK and a heartfelt message.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a container\u2019s favorite game? A: Hide and sync.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the dev go broke? A: Too much cache, not enough flow.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: How do you confuse a machine learning model? A: Show it real life.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What do devs do when stressed? A: npm install more problems.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s a programmer\u2019s biggest fear? A: The client has entered the chat.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s more confusing than an error message? A: No error message.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the comment get promoted? A: It made everything clearer.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: How do devs party? A: With a push to production on Friday.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why don\u2019t coders write novels? A: They already write scripts.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why did the web app feel slow? A: It had too many dependencies.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What\u2019s the difference between a dev and a magician? A: Magicians document their tricks.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: Why was the code cold? A: No one warmed up the cache.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What did the logger say to the bug? A: I\u2019ve got my eye on you.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Q: What happens when devs tell jokes? A: They get push-backed.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"403: Access forbidden. Like your weekend plans.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"404: Feature not available in your plan or budget.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"A developer\u2019s favorite tool? Undo.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Being a developer means rewriting something that already works.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Blue\/green deployments: choose your favorite disaster.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Can you reproduce the issue\u2026 without touching anything else?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Code never lies. Comments sometimes do.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Compilation succeeded. Confidence did not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Did you restart it before calling me?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Error 404: motivation not found.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Every meeting reduces velocity.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Everything is an object. Even my anxiety.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Go doesn\u2019t want you to complain. It doesn\u2019t even let you import unused variables.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Haskell: the language of theoretical success.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Have you tried turning it off and on again?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I didn\u2019t break it. I improved it until it broke.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I didn\u2019t choose the bug life. It was inherited.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I document just enough to confuse the next person.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I drink coffee for your safety.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I inherited this code. Please be kind.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I love deadlines. I like the whooshing sound they make as they fly by.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I swear I didn\u2019t touch anything!",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"I use 3 monitors\u20142 for code and 1 for documentation I don\u2019t read.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"In C, a pointer error is just a Tuesday.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Is it plugged in?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It passed the linter, isn\u2019t that enough?",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It works on my machine.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"It\u2019s not my fault\u2014it\u2019s a legacy decision.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Java: write once, refactor everywhere.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"JavaScript: where `0 == '0'` is true and `0 === '0'` is false.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Keyboard not responding. Press F1 to continue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Let me remote in and Google it for you.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Let\u2019s just call it a soft launch.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Let\u2019s just reboot the project.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Lisp: where code is written with more parentheses than logic.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Monitoring looks good\u2026 which probably means it\u2019s broken.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My Wi-Fi is stable. My mood is not.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My backlog has a backlog.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My code is DRY\u2014Don\u2019t Repeat Yourself. Except in comments.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My code is like a poem. A very confusing one.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My dev environment has feelings. Mostly resentment.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My rubber duck knows more about this bug than I do.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"My team uses agile, but our bugs are waterfall.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Nothing like deploying to prod to raise your heart rate.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"NullPointerException: the ghost in the machine.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Off-by-one errors: the gateway bug.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Oh, that function? It\u2019s just there for vibes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Permission denied. Just like my ideas in planning.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Premature optimization is the root of all evil. And most rewrites.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Production is just staging with higher stakes.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Push to prod, pray, and refresh.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Python is whitespace sensitive. So am I.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Real devs test in production.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Rollback is our real deployment strategy.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Rust doesn\u2019t let you do anything unsafe\u2014unless you ask nicely.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Scala: object-oriented existentialism.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Segmentation fault. So did my brain.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Stack Overflow is my co-pilot.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tabs vs spaces: choose your hill to die on.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Tech support\u2019s secret tool: patience.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"That\u2019s a known issue. We\u2019re not fixing it, but it\u2019s known.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"That\u2019s not a bug, that\u2019s a feature request.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The best way to learn is to break something important.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The first 90% of the project takes 90% of the time. The last 10% takes the other 90%.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The logs are clean. That\u2019s more suspicious.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The sprint ends. The bugs remain.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"The stack overflowed. So did my patience.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"There\u2019s no place like 127.0.0.1.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"This standup could\u2019ve been a lie-down.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Try clearing your cache and cookies. It fixes more than you\u2019d think.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"TypeScript: JavaScript with trust issues.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Unexpected token. Much like my last coffee bill.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Unhandled exception. Like my feelings.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"User error: still the most common issue.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We deploy on Fridays. We also like chaos.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We use canary deploys. The canary\u2019s not looking well.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"We\u2019ll fix that in the next sprint.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"Yes, I need to see the error. No, a photo of your monitor won\u2019t help.",
+    "image":null,
+    "ascii_art":null
+  },
+  {
+    "Joke":"\u201cJust one more deploy\u201d \u2014 every Friday at 4:59 PM.",
+    "image":null,
+    "ascii_art":null
+  }
+]

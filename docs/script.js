@@ -1,10 +1,22 @@
-const quotes = [
-    "The only way to do great work is to love what you do. – Steve Jobs",
-    "Success is not the key to happiness. Happiness is the key to success.",
-    "Believe you can and you're halfway there. – Theodore Roosevelt",
-    "You miss 100% of the shots you don’t take. – Wayne Gretzky",
-    "The best time to plant a tree was 20 years ago. The second best time is now.",
-];
+let quotes = [];
+
+// Load quotes from JSON file
+fetch('developer_jokes.json')
+    .then(response => response.json())
+    .then(data => {
+        quotes = data;
+    })
+    .catch(error => {
+        console.error('Error loading quotes:', error);
+        // Fallback quotes if JSON fails to load
+        quotes = [
+            "The only way to do great work is to love what you do. – Steve Jobs",
+            "Success is not the key to happiness. Happiness is the key to success.",
+            "Believe you can and you're halfway there. – Theodore Roosevelt",
+            "You miss 100% of the shots you don't take. – Wayne Gretzky",
+            "The best time to plant a tree was 20 years ago. The second best time is now.",
+        ];
+    });
 
 function typeQuote(quote, element, delay = 60, onComplete) {
     element.textContent = '';
@@ -27,13 +39,16 @@ window.onload = function() {
     const quoteElement = document.getElementById('quote');
     const btn = document.getElementById('generate-btn');
     const shareBtn = document.getElementById('linkedin-share');
+    const imglink = document.getElementById('quote-img');
     if (btn) {
         btn.onclick = function() {
             btn.classList.add('hide');
             setTimeout(() => { btn.style.display = 'none'; }, 400);
             quoteElement.style.display = 'block';
             const randomIndex = Math.floor(Math.random() * quotes.length);
-            const quoteText = quotes[randomIndex];
+            const quoteText = quotes[randomIndex].Joke || quotes[randomIndex];
+            imglink.href=quotes[randomIndex].ascii_art;
+            imglink.style.display = 'inline-block';
             typeQuote(quoteText, quoteElement, 60, function() {
                 if (shareBtn) {
                     const shareUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href) +
