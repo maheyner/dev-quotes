@@ -30,6 +30,10 @@ body {
     margin-top: 24px;
 }
 
+#quote-img {
+    font-size: 0.65em
+}
+
 #generate-btn {
     background: linear-gradient(180deg, #222 60%, #111 100%);
     color: #39ff14;

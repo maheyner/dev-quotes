@@ -46,13 +46,26 @@ window.onload = function() {
             setTimeout(() => { btn.style.display = 'none'; }, 400);
             quoteElement.style.display = 'block';
             const randomIndex = Math.floor(Math.random() * quotes.length);
+            console.info(`Selected quote index: ${randomIndex}`);
             const quoteText = quotes[randomIndex].Joke || quotes[randomIndex];
             if (quotes[randomIndex].ascii_art) {
                 fetch(quotes[randomIndex].ascii_art)
                     .then(response => response.text())
-                    .then(html => {
-                        imgblock.innerHTML = html;
+                    .then(html => {                        
                         imgblock.style.display = 'inline-block';
+                        imgblock.innerHTML =""
+                        //split html by <br>
+                        const lines = html.split(/<br>/);
+                        // append line by line to the innerHTML
+                        let i=100;
+                        console.info(lines.length);
+                        lines.forEach(line => {
+                            i += 100;
+                            setTimeout(() => {
+                            imgblock.innerHTML += line + '<br>';
+                            }, i);
+                                                    
+                        });
                     })
                     .catch(error => {
                         console.error('Error loading ASCII art:', error);
