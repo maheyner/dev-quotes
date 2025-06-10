@@ -39,7 +39,7 @@ window.onload = function() {
     const quoteElement = document.getElementById('quote');
     const btn = document.getElementById('generate-btn');
     const shareBtn = document.getElementById('linkedin-share');
-    const imglink = document.getElementById('quote-img');
+    const imgblock = document.getElementById('quote-img');
     if (btn) {
         btn.onclick = function() {
             btn.classList.add('hide');
@@ -47,8 +47,20 @@ window.onload = function() {
             quoteElement.style.display = 'block';
             const randomIndex = Math.floor(Math.random() * quotes.length);
             const quoteText = quotes[randomIndex].Joke || quotes[randomIndex];
-            imglink.href=quotes[randomIndex].ascii_art || "art/ascii_art_0000.html";
-            imglink.style.display = 'inline-block';
+            if (quotes[randomIndex].ascii_art) {
+                fetch(quotes[randomIndex].ascii_art)
+                    .then(response => response.text())
+                    .then(html => {
+                        imgblock.innerHTML = html;
+                        imgblock.style.display = 'inline-block';
+                    })
+                    .catch(error => {
+                        console.error('Error loading ASCII art:', error);
+                        imgblock.style.display = 'none';
+                    });
+            } else {
+                imgblock.style.display = 'none';
+            }
             typeQuote(quoteText, quoteElement, 60, function() {
                 if (shareBtn) {
                     const shareUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href) +
