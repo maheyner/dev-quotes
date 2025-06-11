@@ -48,40 +48,17 @@ window.onload = function() {
             const randomIndex = Math.floor(Math.random() * quotes.length);
             console.info(`Selected quote index: ${randomIndex}`);
             const quoteText = quotes[randomIndex].Joke || quotes[randomIndex];
-            if (quotes[randomIndex].ascii_art) {
-                fetch(quotes[randomIndex].ascii_art)
-                    .then(response => response.text())
-                    .then(html => {                        
-                        imgblock.style.display = 'inline-block';
-                        imgblock.innerHTML =""
-                        //split html by <br>
-                        const lines = html.split("<br />");
-                        // append line by line to the innerHTML
-                        let i=0;
-                        console.info(lines.length);
-                        lines.forEach(line => {
-                            i += 5;
-                            setTimeout(() => {
-                            imgblock.innerHTML += line + '<br />';
-                            }, i);
-                                                    
-                        });
-                    })
-                    .catch(error => {
-                        console.error('Error loading ASCII art:', error);
-                        imgblock.style.display = 'none';
-                    });
-            } else {
-                imgblock.style.display = 'none';
-            }
+
             typeQuote(quoteText, quoteElement, 60, function() {
-                if (shareBtn) {
-                    const shareUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href) +
-                        '&summary=' + encodeURIComponent(quoteText);
-                    shareBtn.href = shareUrl;
-                    shareBtn.style.display = 'inline-block';
-                    shareBtn.style.opacity = '1';
-                }
+                    paintArt(art=quotes[randomIndex].ascii_art,imgblock).then(() => {                    
+                        if (shareBtn) {
+                            const shareUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href) +
+                                '&summary=' + encodeURIComponent(quoteText);
+                            shareBtn.href = shareUrl;
+                            shareBtn.style.display = 'inline-block';
+                            shareBtn.style.opacity = '1';
+                        }
+                    });
             });
         };
     }
@@ -91,3 +68,44 @@ window.onload = function() {
     }
     quoteElement.style.display = 'none';
 };
+
+function paintArt(art, imgblock) {
+    return fetch(art)
+        .then(response => response.text())
+        .then(html => {
+            return new Promise((resolve) => {
+                if (!imgblock) {
+                    console.error('Image block not found');
+                    return resolve();
+                }
+                if (!html) {
+                    console.error('No ASCII art found');
+                    imgblock.style.display = 'none';
+                    return resolve();
+                }
+                imgblock.style.display = 'inline-block';
+                imgblock.innerHTML = "";
+                const lines = html.split("<br />");
+                let i = 0;
+                let completed = 0;
+                console.info(lines.length);
+                
+                lines.forEach((line, index) => {
+                    i += 1;
+                    setTimeout(() => {
+                        imgblock.innerHTML += line + '<br />';
+                        completed++;
+                        if (completed === lines.length) {
+                            resolve();
+                        }
+                    }, i);
+                });
+            });
+        })
+        .catch(error => {
+            console.error('Error loading ASCII art:', error);
+            imgblock.style.display = 'none';
+            return Promise.reject(error);
+        });
+}
+
