@@ -1,7 +1,7 @@
 body {
     background: #222 center center/cover no-repeat fixed;
     color: #39ff14;
-    font-family: 'VT323', 'Courier New', Courier, monospace;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
     margin: 0;
     min-height: 100vh;
     height: auto;
@@ -31,7 +31,7 @@ body {
 }
 
 #quote-img {
-    font-family: 'Courier New', monospace, monospace;
+    font-family: 'Courier New', Courier, Menlo, Monaco, monospace;
     font-size: 0.65em
 }
 
@@ -39,7 +39,7 @@ body {
     background: linear-gradient(180deg, #222 60%, #111 100%);
     color: #39ff14;
     border: 2.5px solid #39ff14;
-    font-family: 'VT323', 'Courier New', Courier, monospace;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
     font-size: 1.3rem;
     padding: 16px 32px;
     border-radius: 12px;
@@ -80,7 +80,7 @@ body {
     color: #222;
     border: 2px solid #39ff14;
     border-radius: 8px;
-    font-family: 'VT323', 'Courier New', Courier, monospace;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
     font-size: 1.1rem;
     text-decoration: none;
     box-shadow: 0 2px 8px #39ff14, 0 0 2px #fff inset;
@@ -107,7 +107,9 @@ body {
         padding: 18px 4vw;
         max-width: 98vw;
     }
-
+    #quote-img {
+        font-size: 1vw;  /*Font size is 1% of the viewport width */
+    }
     #quote {
         font-size: 1.1rem;
     }
@@ -117,5 +119,13 @@ body {
         padding: 12px 10vw;
     }
 }
+
+@media (max-width: 950px) {
+    #quote-img {
+        font-size: 1vw;
+    }
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');

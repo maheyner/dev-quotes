@@ -8,7 +8,7 @@ A retro 80s-style web app that generates random developer quotes with an LLM-lik
 - Mobile-friendly, retro computer terminal design
 
 ## Usage
-Open `docs/index.html` in your browser, or visit the live site:
+Run  `python3 -m http.server -d docs` in your browser, or visit the live site:
 
 👉 [View on GitHub Pages](https://maheyner.github.io/dev-quotes/)
 
