@@ -30,6 +30,14 @@ body {
     margin-top: 24px;
 }
 
+#disclaimer {
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #aaa;
+    margin-top: 16px;
+    text-align: center;
+}
+
 #quote-img {
     font-family: 'Courier New', Courier, Menlo, Monaco, monospace;
     font-size: 0.65em
@@ -107,9 +115,12 @@ body {
         padding: 18px 4vw;
         max-width: 98vw;
     }
+
     #quote-img {
-        font-size: 1vw;  /*Font size is 1% of the viewport width */
+        font-size: 1vw;
+        /*Font size is 1% of the viewport width */
     }
+
     #quote {
         font-size: 1.1rem;
     }
